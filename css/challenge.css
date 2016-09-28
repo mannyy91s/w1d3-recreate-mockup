@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+.box{
+    background: red;
+    display: inline-block;
+    width: 30vh;
+    height: 30vh;
+}
