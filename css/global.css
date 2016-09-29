@@ -1,7 +1,6 @@
 *{
-    box-sizing: border-box;
+   box-sizing: border-box;
 }
-
 body{
    font-family: 'Open Sans', sans-serif;
 }
@@ -18,7 +17,6 @@ body{
 .black-top{
    color: black;
 }
-
 .logo{
    background: url(../assets/background.jpg);
    background-repeat: no-repeat;
@@ -30,7 +28,6 @@ body{
    text-align: center;
    padding-top: 90px;
    font-size: 25px;
-
 }
 .box-collection{
    text-align: center;
@@ -39,40 +36,44 @@ body{
 }
 .box-one{
    background:#519251;
-    color: white;
-    display: inline-block;
-    width: 300px;
-    height: 200px;
-    padding: 50px;
+   color: white;
+   display: inline-block;
+   width: 300px;
+   height: 200px;
+   padding: 50px;
+   margin-right: 10px;
 }
 .box-two{
-    background:#2C4985;
-    color: white;
-    display: inline-block;
-    width: 300px;
-    height: 200px;
-    padding: 50px;
+   background:#2C4985;
+   color: white;
+   display: inline-block;
+   width: 300px;
+   height: 200px;
+   padding: 50px;
+   margin-right: 10px;
 }
 .box-three {
-    background:black;
-    color: white;
+   background:black;
+   color: white;
    display: inline-block;
-    width: 300px;
-    height: 200px;
-    padding: 50px;
-   }
-   .box-collection2{
-      text-align: center;
-   }
+   width: 300px;
+   height: 200px;
+   padding: 50px;
+}
+.box-collection2{
+   text-align: center;
+}
 .box-four{
    display: inline-block;
    width: 300px;
    height: 200px;
+   margin-right: 10px;
 }
 .box-five{
    display: inline-block;
    width: 300px;
    height: 200px;
+   margin-right: 10px;
 }
 .box-six{
    display: inline-block;
@@ -87,11 +88,13 @@ body{
    display: inline-block;
    width: 300px;
    height: 130px;
+   margin-right: 10px;
 }
 .box-eight{
    display: inline-block;
    width: 300px;
    height: 130px;
+   margin-right: 10px;
 }
 .box-nine{
    display: inline-block;
@@ -114,9 +117,9 @@ button{
    padding-top: 8px;
 }
 .box-b{
-padding: 30px;
-border: 1px solid #E4E4E4;
-font-weight: bold;
+   padding: 30px;
+   border: 1px solid #E4E4E4;
+   font-weight: bold;
 }
 .dollar{
    font-size: 50px;
@@ -127,12 +130,12 @@ font-weight: bold;
 }
 .texta{
    display: inline-block;
-   width: 400px;
+   width: 450px;
    text-align: left;
 }
 .textb{
    display: inline-block;
-   width:400px;
+   width:450px;
    text-align: left;
    padding-left: 10px;
 }
@@ -142,23 +145,23 @@ font-weight: bold;
 }
 .textc{
    display: inline-block;
-   width: 400px;
+   width: 450px;
    text-align: left;
 }
 .textd{
    display: inline-block;
-   width:400px;
+   width:450px;
    text-align: left;
    padding-left: 10px;
 }
 footer{
-    background: black;
-    text-align: center;
-    color:grey;
-    padding: 30px;
+   background: black;
+   text-align: center;
+   color:grey;
+   padding: 30px;
 }
 .footer-text{
-    color: white;
+   color: white;
 }
 .p-text{
    color: grey;
@@ -169,7 +172,6 @@ footer{
 .big-text{
    margin-bottom: -10px;
 }
-
 footer a:link{
    color: white;
 }
